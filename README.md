@@ -1,6 +1,5 @@
 ## Problem description
-Students implement a tic-tac-toe game (Vietnamese: trò chơi caro). For simplicity, students just
-need to implement 3x3 maps. Student will control player 1, Computer will control player 2 (and
+Students implement a tic-tac-toe game. For simplicity, students just need to implement 3x3 maps. Student will control player 1, Computer will control player 2 (and
 vice versa).
 
 Students choose any adversarial search. Using that adversarial search to find the optimal
