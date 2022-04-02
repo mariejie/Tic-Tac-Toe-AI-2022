@@ -10,3 +10,9 @@ Students must implement the interface of tic-tac-toe game. Note:
 use.
 - The main purpose of this project is learning Adversarial search, please do not focus on
 application or interface (just easy to look are enough).
+<div align="center">
+  <img width="240" src="https://user-images.githubusercontent.com/83217673/161388312-0e630921-f59c-43b2-a8c6-cb436759bb80.png">
+  <img width="240" src="https://user-images.githubusercontent.com/83217673/161388536-e656ff87-52ea-4090-b1e2-1472e391da0f.png">
+  <img width="240" src="https://user-images.githubusercontent.com/83217673/161388344-430f508d-132a-4e55-a7b3-114c8cbdcfa9.png">
+  <img width="240" src="https://user-images.githubusercontent.com/83217673/161388346-41fc5e1d-9f6b-4f58-813e-70857f29b16b.png">
+</div>
