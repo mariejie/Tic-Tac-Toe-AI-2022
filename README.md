@@ -5,7 +5,9 @@ vice versa).
 Students choose any adversarial search. Using that adversarial search to find the optimal
 path, which will help the Computer to win this game.
 
-Students must implement the interface of tic-tac-toe game. Note:
+Students must implement the interface of tic-tac-toe game. 
+
+Note:
 - You can use `pygame` or `tkinter` (python library), those libraries are so easy to learn and
 use.
 - The main purpose of this project is learning Adversarial search, please do not focus on
