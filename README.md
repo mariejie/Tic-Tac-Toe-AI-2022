@@ -23,6 +23,6 @@ application or interface (just easy to look are enough).
 ### Note:
 
 <div align="left">
-  I coded this in 1 day, and it has a bug, but I'm so tired of fixing it, so the source code is just for fun. Lol
+  I coded this in 1 day, and it has a stupid bug, but I'm so tired of fixing it, the source code is just for fun. Lol
   <img width="25" src="https://user-images.githubusercontent.com/83217673/161389692-92f21076-613f-432d-858a-5d7180ce9744.png">
 </div>
